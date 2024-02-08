@@ -3,6 +3,8 @@ Data and code for reproducing the results of the paper "Reach the bottom: plant 
 
 ![Habitats of the former Kakhovka reservoir](https://github.com/olehprylutskyi/kakhovka_vegetation_habitats/blob/main/habitat_map.png)
 
+You can aslo view high-resolution map [online](https://ee-olegpril12.projects.earthengine.app/view/kakhovka-habitat-map-oct-2023).
+
 ## Botanical data
 
 
