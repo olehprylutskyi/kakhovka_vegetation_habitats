@@ -5,6 +5,7 @@ Data and code for reproducing the results of the paper "Reach the bottom: plant 
 
 ## Botanical data
 
+
 ## Vegetation and water cover
 
 | Filename | Description | Format |
@@ -16,10 +17,12 @@ Data and code for reproducing the results of the paper "Reach the bottom: plant 
 | kakh_ndvi2_0620.tif | Vegetation cover as of 2023-06-06 | Geotiff |
 | kakh_ndvi2_0819.tif | Vegetation cover as of 2023-08-19 | Geotiff |
 | kakh_ndvi2_1107.tif | Vegetation cover as of 2023-11-07 | Geotiff |
+| trainings_poly_woWater.shp | Ground truth polygons for supervised image classification | Esri Shapefile |
 
-Класи растрових файлів рослинності ложа Каховського водосховища kakh_ndvi2_ХХХХ.tif
-1 - Розріджена рослинність
-2 - Зімкнута рослинність
+Rasters kakh_ndvi2_ХХХХ.tif contains two classes:
+
+1. Open vegetation
+2. Closed vegetation
 
 
 ## Habitat mapping
