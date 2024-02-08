@@ -1,7 +1,7 @@
 # Plant cover of the former Kakhovka Reservoir
 Data and code for reproducing the results of the paper "Reach the bottom: plant cover of the former Kakhovka Reservoir after four months of blowing up the dam".
 
-![Habitats of the former Kakhovka reservoir]()
+![Habitats of the former Kakhovka reservoir](https://github.com/olehprylutskyi/kakhovka_vegetation_habitats/blob/main/habitat_map.png)
 
 ## Botanical data
 
