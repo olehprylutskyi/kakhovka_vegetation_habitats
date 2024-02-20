@@ -1,0 +1,69 @@
+Species,date1_2023-06-30,date2_2023-10-19,Lifespan,Dispersal,Origin
+Acer negundo,Y,Y,Perennial woody,Anemochory,Neophyte
+Amaranthus albus,N,Y,Annual,Local non-specific dispersal,Neophyte
+Amaranthus retroflexus,N,Y,Annual,Local non-specific dispersal,Neophyte
+Amorpha fruticosa,Y,Y,Perennial woody,Endozoochory,Neophyte
+Artemisia vulgaris,N,Y,Perennial herbal,Myrmecochory,Native
+Atriplex prostrata,N,Y,Annual,Local non-specific dispersal,Native
+Bidens frondosa,Y,Y,Annual,Local non-specific dispersal,Neophyte
+Bolboschoenus planiculmis,N,Y,Perennial herbal,Local non-specific dispersal,Native
+Butomus umbellatus,N,Y,Perennial herbal,Hydrochory,Native
+Cynanchum acutum,N,Y,Perennial woody,Anemochory,Native
+Capsella bursa-pastoris,N,Y,Short-lived,Local non-specific dispersal,Native
+Carduus nutans,N,Y,Short-lived,Myrmecochory,Native
+Chenopodium album s.l.,N,Y,Annual,Local non-specific dispersal,Native
+Chenopodium betaceum,N,Y,Annual,,Native
+Cirsium arvense,N,Y,Perennial herbal,Anemochory,Native
+Cirsium vulgare,N,Y,Short-lived,Anemochory,Native
+Convolvulus arvensis,N,Y,Perennial herbal,Local non-specific dispersal,Native
+Crepis ramosissima,N,Y,Annual,Anemochory,Native
+Cyperus fuscus,N,Y,Annual,Local non-specific dispersal,Native
+Dactylis glomerata,N,Y,Perennial herbal,Local non-specific dispersal,Native
+Echinochloa crus-galli,N,Y,Annual,Epizoochory,Native
+Eleocharis palustris,N,Y,Perennial herbal,Epizoochory,Native
+Eragrostis minor,N,Y,Annual,Anemochory,Native
+Erigeron canadensis,N,Y,Annual,Anemochory,Neophyte
+Fraxinus pennsylvanica,Y,Y,Perennial woody,Anemochory,Neophyte
+Gleditsia triacanthos,Y,Y,Perennial woody,Endozoochory,Neophyte
+Glycyrrhiza echinata,N,Y,Perennial herbal,Local non-specific dispersal,Native
+Hyoscyamus niger,N,Y,Short-lived,Local non-specific dispersal,Native
+Juncus articulatus,N,Y,Perennial herbal,Local non-specific dispersal,Native
+Juncus compressus,N,Y,Perennial herbal,Local non-specific dispersal,Native
+Koeleria macrantha,N,Y,Perennial herbal,Local non-specific dispersal,Native
+Lactuca serriola,N,Y,Short-lived,Anemochory,Native
+Lactuca tatarica,N,Y,Perennial herbal,Anemochory,Native
+Lycopus europaeus,N,Y,Perennial herbal,Anemochory,Native
+Malva pusilla,N,Y,Annual,Local non-specific dispersal,Native
+Medicago minima,N,Y,Annual,Local non-specific dispersal,Native
+Medicago falcata,N,Y,Perennial herbal,Local non-specific dispersal,Native
+Melilotus officinalis,N,Y,Short-lived,Local non-specific dispersal,Native
+Mentha aquatica,N,Y,Perennial herbal,Local non-specific dispersal,Native
+Oenothera biennis,N,Y,Short-lived,Local non-specific dispersal,Neophyte
+Persicaria lapathifolia,N,Y,Annual,Local non-specific dispersal,Native
+Persicaria maculosa,N,Y,Annual,Local non-specific dispersal,Native
+Phalaris arundinacea,N,Y,Perennial herbal,Local non-specific dispersal,Native
+Phragmites australis,Y,Y,Perennial herbal,Anemochory,Native
+Plantago major subsp. intermedia,N,Y,Perennial herbal,Local non-specific dispersal,Native
+Poa compressa,N,Y,Perennial herbal,Local non-specific dispersal,Native
+Polygonum aviculare,N,Y,Annual,Local non-specific dispersal,Native
+Populus nigra,Y,Y,Perennial woody,Anemochory,Native
+Portulaca oleracea,Y,Y,Annual,Myrmecochory,Native
+Potentilla supina,N,Y,Short-lived,Myrmecochory,Native
+Ranunculus repens,N,Y,Perennial herbal,Local non-specific dispersal,Native
+Ranunculus sceleratus,N,Y,Annual,Epizoochory,Native
+Rumex crispus,N,Y,Perennial herbal,Local non-specific dispersal,Native
+Rumex maritimus,N,Y,Annual,Local non-specific dispersal,Native
+Rumex stenophyllus,N,Y,Perennial herbal,Local non-specific dispersal,Native
+Salix alba × S. fragilis,Y,Y,Perennial woody,Anemochory,Neophyte
+Salsola tragus,N,Y,Annual,Anemochory,Native
+Sanguisorba minor,N,Y,Perennial herbal,Local non-specific dispersal,Native
+Scutellaria galericulata,N,Y,Perennial herbal,Local non-specific dispersal,Native
+Coronilla varia,N,Y,Perennial herbal,Local non-specific dispersal,Native
+Sonchus asper,N,Y,Short-lived,Anemochory,Native
+Tamarix ramosissima,N,Y,Perennial woody,Anemochory,Native
+Tribulus terrestris,Y,Y,Annual,Epizoochory,Native
+Trifolium diffusum,N,Y,Annual,Local non-specific dispersal,Native
+Typha angustifolia,N,Y,Perennial herbal,Anemochory,Native
+Typha latifolia,N,Y,Perennial herbal,Anemochory,Native
+Vicia villosa,N,Y,Short-lived,Local non-specific dispersal,Native
+Xanthium orientale,N,Y,Annual,Local non-specific dispersal,Neophyte

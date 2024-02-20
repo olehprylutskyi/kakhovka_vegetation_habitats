@@ -6,7 +6,9 @@ Data and code for reproducing the results of the paper "Reach the bottom: plant 
 You can aslo view high-resolution map [online](https://ee-olegpril12.projects.earthengine.app/view/kakhovka-habitat-map-oct-2023).
 
 ## Botanical data
+File `checklist_traits.csv` contains full list of taxa (species, hybrids, infraspecific taxa), as well as data on occurrence of these taxa during both surveys (2023-06-30, 2023-10-19). Fields Lifespan, Dispersal, Origin indicates respective traits. More details on traits assignment are provided in the Methods section of the manuscript.
 
+Script `traits_alluvial_plot.R` contains R code to reproduce alluvial plot provided in the manuscript.
 
 ## Vegetation and water cover
 
@@ -26,6 +28,5 @@ Rasters kakh_ndvi2_ХХХХ.tif contains two classes:
 1. Open vegetation
 2. Closed vegetation
 
-
 ## Habitat mapping
-Script SL2_image_classification_Kakhovka.js contains the JavaScript code for Google Earth Engine, containing satellite image preparation, supervised classification and its evaluation, calculation of the areas of land cover (habitat) classes, and exporting results. All data required to run this code are already in the form of readable GEE assets and included in the script.
+Script `SL2_image_classification_Kakhovka.js` contains the JavaScript code for Google Earth Engine, containing satellite image preparation, supervised classification and its evaluation, calculation of the areas of land cover (habitat) classes, and exporting results. All data required to run this code are already in the form of readable GEE assets and included in the script.
