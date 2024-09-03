@@ -1,7 +1,7 @@
 # Plant cover of the former Kakhovka Reservoir
 Data and code for reproducing the results of the paper "A year after the breach: vegetation dynamics in the drained Kakhovka Reservoir, Ukraine" (in press).
 
-![Habitats of the former Kakhovka reservoir, as of October 2023](https://github.com/olehprylutskyi/kakhovka_vegetation_habitats/blob/main/habitat_map.png)
+![Habitats of the former Kakhovka reservoir, as of October 2023](https://github.com/olehprylutskyi/kakhovka_vegetation_habitats/blob/main/habitat_map_2023.png)
 
 You can aslo view two-period high-resolution map [online](https://ee-olegpril12.projects.earthengine.app/view/kakhovka-habitat-map-oct-2023).
 
