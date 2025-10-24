@@ -1,9 +1,9 @@
 # Plant cover of the former Kakhovka Reservoir
-Data and code for reproducing the results of the paper "A year after the breach: vegetation dynamics in the drained Kakhovka Reservoir, Ukraine" (in press).
+Data and code for reproducing the results of the paper "Initial stages of revegetation at the bottom of the drained Kakhovka reservoir (Ukraine): synthesis of field surveys and remote sensing" (in press).
 
 ![Habitats of the former Kakhovka reservoir, as of October 2023](https://github.com/olehprylutskyi/kakhovka_vegetation_habitats/blob/main/habitat_map_2023.png)
 
-You can aslo view two-period high-resolution map [online](https://ee-olegpril12.projects.earthengine.app/view/kakhovka-habitat-map-oct-2023).
+You can aslo view two-period high-resolution map [through the GEE online viewer](https://ee-olegpril12.projects.earthengine.app/view/kakhovka-habitat-map-oct-2023).
 
 ## Botanical data
 File `Species_list_07_2024.xlsx` contains full list of taxa (species, hybrids, infraspecific taxa), as well as data on occurrence of these taxa during all surveys (2023-06-30, 2023-10-19, and 2024-05-25). Fields Lifespan, Dispersal, Origin indicates respective traits. More details on traits assignment are provided in the Methods section of the manuscript.
