@@ -1,5 +1,5 @@
 # Plant cover of the former Kakhovka Reservoir
-Data and code for reproducing the results of the paper "Initial stages of revegetation at the bottom of the drained Kakhovka reservoir (Ukraine): synthesis of field surveys and remote sensing" (in press).
+Data and code for reproducing the results of the paper "Kuzemko A.A., Prylutskyi O.V., Kolomytsev G.O., Didukh Ya.P., Moysiyenko I.I., Borsukevych L.M., Chusova O.O., Khodosovtsev O.Ye. 2025. Initial stages of revegetation at the bottom of the drained Kakhovka Reservoir (Ukraine): synthesis of field surveys and remote sensing. Ukrainian Botanical Journal, 82(5): 488−501. [https://doi.org/10.15407/ukrbotj82.05.488](https://doi.org/10.15407/ukrbotj82.05.488).
 
 ![Habitats of the former Kakhovka reservoir, as of October 2023](https://github.com/olehprylutskyi/kakhovka_vegetation_habitats/blob/main/habitat_map_2023.png)
 
